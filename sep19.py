@@ -128,5 +128,5 @@ print(c)
 '''assert function
 I have a picture in my cellphone
 '''
-practice assert
+
 
