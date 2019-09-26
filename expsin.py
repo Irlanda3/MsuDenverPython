@@ -1,15 +1,21 @@
-#%%
-from math import sin, exp, pi
+# %%
+import math
 
 
-
-def calculate(t):
-    """
-    in a Python functiong(t). Print out g(0)and g(1).Filename:expsin
-
-    """
-    variable = exp**(t)*sin(pi*(t) )
+def calcular(t):
+    exponente = math.exp(-t)
+    seno = math.sin(math.pi*t)
+    total = exponente*seno
+    print("EXPONENTE: ",exponente)
+    print("g(t): ", total)
     return
-help(calculate)
+
+calcular(0)
+calcular(1)
+
+'''EXPONENTE:  1.0
+g(t):  0.0
+EXPONENTE:  0.36787944117144233
+g(t):  4.505223801027239e-17'''
 
 #%%
