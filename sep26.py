@@ -38,3 +38,29 @@ fp = sympy.lambdify(x, fp)
 
 
 #%%
+from math import sin, cos, pi, sqrt
+
+def length(p0, p1):
+    """
+    inputs:
+        p0: (x_1, y_0)
+        p1: (x_1, y_1)
+    output:
+        distance between p0 anf p1
+    """
+    return sqrt((p1[0] - p0[0])**2 + (p1[1] - p0[1])**2)
+
+def approx(P): #we send a list of points
+    L = 0.0
+    for K in range(1, len(P)):
+        L+= length(P[K-1], P[K])
+    return L
+
+n = 20
+x = [ 0.5*cos(2.0*pi*i/n) for i in range(n+1)] 
+y = [ 0.5*sin(2.0*pi*i/n) for i in range(n+1)] 
+print(abs(approx(tuple(zip(x,y))) -pi ))
+
+
+
+#%%
