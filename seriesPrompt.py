@@ -12,8 +12,16 @@ for j in x:
 
 # %%
 
-f = 1 + (1/2) + (1/2) + (1/2)
-print(f)
+
+
+#%%
+#range prints from 1 to 5
+
+for i in range(1,6):
+  
+  count += 1/i
+  #print(count)
+print(count)
 
 
 #%%
