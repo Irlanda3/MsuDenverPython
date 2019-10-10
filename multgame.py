@@ -1,23 +1,28 @@
 # %%
-print("how many total test scores need to be entered? ")
-total_test_scores = int(input())
-print("You typed: ", total_test_scores)
-thislist = []
-for i in range(total_test_scores):
-    print("Enter score for student #", i)
-    scores = int(input())
-    thislist.append(scores)
-    #thislist = scores
-    # for y in range(total_test_scores):
-    #     thislist.append(scores)
-print(thislist)
+import sys
+import random
 
-# %%
-N = 10
-listi = []
-if (N > 0):
-    for i in range(10):
-        listi.append(i)
-print(listi)
+print("Let’s play a game!")
+print("At anytime, to quit simply provide ’q’ for your answer.")
+list1 = [5,6,7,8,9,10,11,12]
+list2 = [5,6,7,8,9,10,11,12]
+azar1 = random.choice(list1)
+azar2 = random.choice(list2)
 
-# %%
+print(azar1," X ", azar2,"=")
+print("Enter you answer")
+answerByUser = int(input())
+
+
+if answerByUser/azar1 == azar2:
+    print("you are right")
+else:
+    print("you are wrong")
+
+'''THIS PROGRAM WORKS, BUT i AM GETTING A WEIRD MESSAGE 
+IN THE TERMINAL:
+PS C:\Users\anayeli\Documents\PythonScientificProgramming> python multGame.py
+  File "multGame.py", line 5
+SyntaxError: Non-ASCII character '\xe2' in file multGame.py on line 5, but no encoding declared; 
+see http://python.org/dev/peps/pep-0263/ for details'''
+    
