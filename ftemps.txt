@@ -1,0 +1,5 @@
+Temperature data
+----------------
+
+Fahrenheit degrees: 67.2
+Fahrenheit degrees: 70.2

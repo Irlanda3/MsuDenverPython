@@ -1,26 +1,7 @@
-#AIR POLLUTION NOTES OCTOBER 15 2019
-
-EXAM 2 NEXT WEEK
-
-*COMMON PURPUSES FOR AIR DISPERSION MODELING
- permitting new sources of air pollution, Developing air pollution control strategies in non attaintment areas
- Developing new regulations. determining patterns of contaminated areas from historic air emissions.Transportation planning.
- environmental impact statements
-
- *Goals of air dispertion MODELING
- estimate concentrations of pollutanst for ambient air quality standards
- toxic air polluttans
- preventions of significant deteriotation
- provide cost effective stimates over large areas.
-
- *ACCURACY OF DISPERSION MODELS
- uncertainties can be large
- accuracy depends on:
-    -physics and chemestry eqns
-    -uncertainties in measurements.
-
-*TYPES OF MODELS
-Gaussian Plume Models. Approximates plume behavior. Concentration is dispersed in horizontal and vertical.
-Uses steady-state meteorology. do not use chemical reactions.Most common type for air quality permitting.
-
-*NUMERICAL OF GRID MODELS
+conejo raton
+rata firu
+perro
+broncos
+chivas
+america
+conejo raton
