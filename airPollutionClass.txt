@@ -11,3 +11,19 @@ dijo como que llega un foton pero choca con otra cosa boincing y luego
 llega ami. *scattering. es cuando un photon esta cerca de un objeto , it can scatter foward.
 un ej de scatter es cuando la luz del sol baja pero esta una nube tapando
 entonces si nos llega la luz pero de modo diffuse.*absoption, add or remove ligth
+-----natural visibility reduction------
+tenemos mejor visibilidad en las altitudes altas y tenemos meno
+pasticulas en las alturas que hagan scatter.*rayleigh scattering,
+tiene que ver con la luz azul, 80% de las moleculas son nitrogen
+-----particulates in visibility--------
+hay algunas particulas que absorbern o reflejan la lz, nos referimos
+a la contaminacion y por eso con mas contaminacion menos visibilidas. si las
+particulas se mojan se hacen mas grandes. NO2 segun veces hay mucho deesto
+en las nubes y por eso veces vemos nubes cafes, segun entiendo el no2 absorbe l0 
+azul de espectro de colores. from preferential absoption of blue and some green
+by particles ans transmission or red and remaining green(which maskes brown)
+-------black color of soot-----------------
+soot appears black because it absorbs all visible wavelengths(blue, green, red) and
+transmits ligth o algo asi 
+------quantifying visibility reduction-------
+son unas formulas de la diapositiva
