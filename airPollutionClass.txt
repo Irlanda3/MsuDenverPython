@@ -1,7 +1,13 @@
-conejo raton
-rata firu
-perro
-broncos
-chivas
-america
-conejo raton
+AIR POLLUTION CLASS 10/24/2019
+
+fue a la pagina de colorado.gov  y nos ensenio una foto tomada desde el chesse park
+Dijo que l max vsi es como el aqi.
+* beta extinction: es como cuanto se pierde de photones en un km.
+* para calcular el vsi se necesita una calculation especial
+----visibility determinig factors------
+que tan vien se ve o borroso esta, enontces decimos si tenemos mas luz tenemos mas visibilidad
+que le puede pasar a esa luz, de donde la luz se origina, un ohoton de ligth can betareflected.
+dijo como que llega un foton pero choca con otra cosa boincing y luego
+llega ami. *scattering. es cuando un photon esta cerca de un objeto , it can scatter foward.
+un ej de scatter es cuando la luz del sol baja pero esta una nube tapando
+entonces si nos llega la luz pero de modo diffuse.*absoption, add or remove ligth
