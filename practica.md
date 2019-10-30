@@ -2,12 +2,12 @@
 ## MTR 3400 Assignment #3
 ## GitHub: github.com/Irlanda3
 
-                        Coriolis parameter
+                           Coriolis parameter
 $$ f = 2Ωsin(Φ)$$
                     geostrophic adjustment time
 $$geostrophic     adjustment     time= 1/4(2π / f)  $$
 
-Part 1
+# Part 1
 
 Earth angular velocity:  0.004178079012116429
 f_coriolis parameter:  15.041084443619141
@@ -39,7 +39,7 @@ Geostrophic Adjustment Time 60° :  3.454639485726036 hrs
 
 ![Graph](earth.png "Earth")
 
-Part 2
+# Part 2
 ## Saturn almost have 1/2 the hours of an earth day
 
 
@@ -72,6 +72,8 @@ f_coriolis parameter:  58.4567147554496
 Geostrophic Adjustment Time 60°:  1.539600717839002
 
 ![Graph](saturn.png)
+
+# Part 3
 
 ## Mercury has 1,408 hours which is more that 2 times the hrs of an Earth day
 
