@@ -2,15 +2,20 @@
 ## MTR 3400 Assignment #3
 ## GitHub: github.com/Irlanda3
 
-                           Coriolis parameter
-$$ f = 2Ωsin(Φ)$$
-                    geostrophic adjustment time
-$$geostrophic     adjustment     time= 1/4(2π / f)  $$
+                                   Coriolis parameter
+                                      f = 2Ωsin(Φ)
+ 
+                   
+                                geostrophic adjustment time
+                                    GAT = 1/4(2π / f)
 
-# Part 1
 
-Earth angular velocity:  0.004178079012116429
-f_coriolis parameter:  15.041084443619141
+
+
+# Part 1 Earth
+
+Earth angular velocity:  0.004178079012116429 
+f_coriolis parameter:  15.041084443619141 
 Geostrophic Adjustment Time 30° :  5.983611111111113 hrs
 
 Earth angular velocity:  0.004178079012116429
@@ -108,3 +113,7 @@ f_coriolis parameter:  0.4430085960827674
 Geostrophic Adjustment Time 60°:  203.1563287841604
 
 ![Graph](mercury.png)
+
+# Findings
+
+This analysis was created using python with matplolib library as well as Markdown. Based on these findings, there is a difference between the graphs. The previous graphs are analysis about the geostrophic adjustment period from 30° to 60° N. at every 5° interval and results are in hr unit. The first one shows a adjustment starting from 3.5 to 6 hrs. The second graph represents a geostrophic adjustment period of Saturn. On this one, the adjustment is from 1.6 to 2.6 hrs. Finally, the third graph shows a huge diffrence among the last two. The adjustment is from 200 to 340 hr. In conclusion, the biggest geostrophic adjustment time is found on the last graph (Mercury).
