@@ -7,7 +7,7 @@ verctorize cosas'''
 from matplotlib import use, pyplot as plt
 import numpy as np
 
-plt.switch_backend('Agg')  # this is a non-interactive backend that prevents the figure from being displayed
+#plt.switch_backend('Agg')  # this is a non-interactive backend that prevents the figure from being displayed
 
 def f(x):
     y = []

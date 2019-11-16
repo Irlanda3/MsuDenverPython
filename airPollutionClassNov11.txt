@@ -1,0 +1,101 @@
+nov  11 2019
+indoor air quality
+-------------------------------------------------------
+indoor air quality is a major environment health risk
+most people are indoors 90% of the time
+
+pollutant level often higher indoors;
+sometimes 100-1000 higher that outdoors
+indoor cooking tmb es malo pq absorvemos cosas pr esos tenemos detec-
+tores de carbon monoxide
+
+* ipacts of poor IAQ
+-health effects
+-medical costs
+-lost productivity
+-negative publicity como el cancer del west classroom
+-potential lawsuits
+
+factors influency IAQ
+-ventilations
+-concentracion de outside pollutants
+-indoor sources:Combustion, infiltration from soils
+la combustion puede ser un pan quemado tm
+-indoor sinks: dilution, filtration, deposition, adsoption=when a chemical goes to walls, furniture, cloths.
+infiltracion de cosas del piso en el basement
+
+majrIAQ'S pollutants: VOC's
+sources
+-consumer products
+si no hay aire pss no se lleva los contaminantes
+-building materials
+*health effects
+-liver, kidney,neurological problems
+-cancer-mareos
+
+major IAQ ppllutans: particulates como el pm2.5 or 10
+
+sources:
+    -combustion appliances and frunaces
+    water heater 
+    -cigarros
+
+health effcts:
+irritacion de garganta
+- infcciones respiratorias
+- riesgo de cancer(lung)
+
+major IAQ pollutants:
+
+sources:
+    -furnaces, water heaters, combustion appliances.
+    -cars
+
+    health effects:
+    como que dejas de razonar
+    -1000 accidental muertes por anio
+    - fatiga
+    combustion devices deberian de estar lejos de edificios
+
+major IAQ ppllutans: Lead
+
+sources:
+    -contaminated dust ej old paint
+
+    helath effects:
+    anemia, high pressure, kidney
+    las casesa viejas tienen esos
+
+major IAQ pollutants:  pesticidas
+    -irritacion, ojos, pulmones
+
+major IAQ ; asbestoss
+
+    -es insolacion para edificios es un material para construir
+
+    causa lund enfermedades, lung risk cancer
+    argon enmedio de las ventanas para mejor isolacion
+    -el asbesto tiene que estar fuera del aire pr q contaminantes
+
+major IAQ: biological
+ cucarachas,fungi, dust mites, bacteria
+
+ sources:
+ wet, dirty places
+ pesticidas
+ health effects:
+ -allergic reactions, asthma disease, most common cause of biulding related illness
+
+ morld, cause asma. podemos controlarlo si tenemos control de moisture
+
+ *radon
+ sources, infiltration from soil, outgassing of well water in showers( q segun se forma con el agua) 
+ el radon incrementa el risk of cancer
+
+ podemos comprar un kit para hacer testing de radon en casesa
+
+ la ventilacion es muy buena
+ 6% de las casas en us tienen altos niveles de radon
+
+ alpha decays son peor q los betha
+
