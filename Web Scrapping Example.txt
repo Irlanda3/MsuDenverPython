@@ -1,0 +1,14 @@
+import urllib
+from bs4 import BeautifulSoup
+
+#specify the url
+web_page = 'https://web.archive.org/web/20121007172955/https://www.nga.gov/collection/anZ1.htm
+
+page = urllib.request.urlopen(web_page)
+
+soup = BeautifulSoup(page, 'html.parser')
+
+print(soup)
+
+
+
